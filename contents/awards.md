@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 奖项加载中... 2022.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Outstanding Graduation Thesis, 上海城建职业学院 University, 2023. 
