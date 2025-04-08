@@ -1,4 +1,4 @@
-[![Gong](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Gong](https://img.shields.io/badge/ghj-github-blue?logo=github)](https://github.com/ghj)
 
 I'm a good student
 
